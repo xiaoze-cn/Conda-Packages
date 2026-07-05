@@ -1,0 +1,24 @@
+{
+  "info": {
+    "subdir": "win-64"
+  },
+  "packages": {},
+  "packages.conda": {
+    "hikcamera-mvs-5.0.1-20260512_0.conda": {
+      "arch": "x86_64",
+      "build": "20260512_0",
+      "build_number": 0,
+      "depends": [],
+      "license": "LicenseRef-HikCamera-MVS",
+      "md5": "626dfd6a65591142c15f35ded45d57e8",
+      "name": "hikcamera-mvs",
+      "platform": "win",
+      "sha256": "aa51b325e28253716a7a7393b5d1eac5e371fe78a5d0fcf02097dfe61c286afb",
+      "size": 13428934,
+      "subdir": "win-64",
+      "timestamp": 1783141326553,
+      "version": "5.0.1"
+    }
+  },
+  "repodata_version": 2
+}
