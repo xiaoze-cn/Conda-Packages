@@ -6,14 +6,14 @@ Channel URL: `https://xiaoze-cn.github.io/conda-channel`
 
 ## Layout
 
-```text
-C:\Projects\Development Tools\Conda Channel
+```
+C:\Projects\Distributions\Conda Channel
 ├── README.md
 ├── index.html
 ├── noarch
 │   └── repodata.json
 ├── win-64
-│   ├── hikcamera-mvs-5.0.1-20260512_0.conda
+│   ├── hikcamera-mvs-5.0.1-20260512_1.conda
 │   └── repodata.json
 └── linux-64
     └── repodata.json
@@ -27,4 +27,4 @@ C:\Projects\Development Tools\Conda Channel
 
 ## Packages
 
-- `win-64/hikcamera-mvs-5.0.1-20260512_0.conda`: HikCamera MVS 5.0.1 SDK files for Windows x86_64.
+- `win-64/hikcamera-mvs-5.0.1-20260512_1.conda`: HikCamera MVS 5.0.1 SDK files for Windows x86_64.
