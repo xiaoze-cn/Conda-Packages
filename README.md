@@ -1,8 +1,8 @@
 # Conda Packages
 
-Static Conda Channel for SDK files, runtime bundles, and development tools.
+Conda Packages repository for SDK files, runtime bundles, and development tools.
 
-Channel URL: `https://xiaoze-cn.github.io/Conda-Packages`
+Repository URL: `https://xiaoze-cn.github.io/Conda-Packages`
 
 ## Layout
 
